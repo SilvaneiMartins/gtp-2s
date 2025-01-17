@@ -74,7 +74,7 @@ Este projeto foi um excelente exercício para aprofundar meu conhecimento em int
 
 ## Fonte de pesquisa
 
-- [GPT-2s]("https://huggingface.co/openai-community/gpt2") - GPT-2s é uma reimplementação do GPT-2 em C11, com passagem para frente e para trás.
+- [GPT-2s](https://huggingface.co/openai-community/gpt2) - GPT-2s é uma reimplementação do GPT-2 em C11, com passagem para frente e para trás.
 
 ## Licença
 

@@ -41,6 +41,21 @@ Documentação aprimorada: Incluir mais exemplos e explicações detalhadas sobr
 Integração com outras versões de GPT: Expandir o suporte para modelos maiores ou mais recentes.
 Este projeto foi um excelente exercício para aprofundar meu conhecimento em inteligência artificial e sistemas de baixo nível, e espero que sirva de inspiração para outros que desejam entender a fundo os modelos transformadores.
 
+## Criar um ambiente virtual
+
+- Obs. Criar um ambiente virtual é opcional, mas é uma boa prática para manter o ambiente de desenvolvimento limpo e organizado.
+
+```bash
+    # criar um ambiente virtual
+    python -m venv .venv
+
+    # ativar o ambiente virtual no linux ou macOS
+    source .venv/bin/activate
+
+    # ativar o ambiente virtual no windows
+    .venv\Scripts\activate
+```
+
 ## Executar o projeto
 
 ```bash
